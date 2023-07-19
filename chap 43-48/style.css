@@ -1,0 +1,76 @@
+/* ============================== QNO: 1 ===================================== */
+#alert {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+/* ============================== END ===================================== */
+
+
+/* ============================== QNO: 2 ===================================== */
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.img img {
+    width: 300px;
+    height: 300px;
+}
+/* ============================== END ===================================== */
+
+
+/* ============================== QNO: 3 ===================================== */
+table td,th {
+    padding: 5px;
+    text-align: center;
+}
+/* ============================== END ===================================== */
+
+
+/* ============================== QNO: 4 ===================================== */
+.imageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageContainer img {
+    width: 1000px;
+    height: 630px;
+}
+.hover img.active {
+    background-image: url("https://wallpapercave.com/wp/wp7099449.jpg");
+}
+/* ============================== END ===================================== */
+
+
+/* ============================== QNO: 5 ===================================== */
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.counter button {
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    margin: 10px;
+    font-size: 30px;
+    border-radius: 5px;
+    border: 5px solid wheat;
+}
+.counter .box {
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+    background-color: wheat;
+}
+/* ============================== END ===================================== */
